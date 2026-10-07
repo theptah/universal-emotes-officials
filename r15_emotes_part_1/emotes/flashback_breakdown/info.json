@@ -1,0 +1,8 @@
+{
+  "id": "flashback_breakdown",
+  "animation": "animation.universal_emotes.flashback_breakdown",
+  "name": "Flashback Breakdown",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "bim_bam_boom",
+  "animation": "animation.universal_emotes.bim_bam_boom",
+  "name": "Bim Bam Boom",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

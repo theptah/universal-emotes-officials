@@ -1,0 +1,8 @@
+{
+  "id": "i_don_t_care",
+  "animation": "animation.universal_emotes.i_don_t_care",
+  "name": "I Don't Care",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "breakdance",
+  "animation": "animation.universal_emotes.breakdance",
+  "name": "Breakdance",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

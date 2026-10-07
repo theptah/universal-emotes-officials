@@ -1,0 +1,8 @@
+{
+  "id": "wanna_see_me",
+  "animation": "animation.universal_emotes.wanna_see_me",
+  "name": "Wanna See Me",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

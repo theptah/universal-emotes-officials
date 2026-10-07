@@ -1,0 +1,8 @@
+{
+  "id": "triumphant",
+  "animation": "animation.universal_emotes.triumphant",
+  "name": "Triumphant",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

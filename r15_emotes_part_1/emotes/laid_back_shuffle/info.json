@@ -1,0 +1,8 @@
+{
+  "id": "laid_back_shuffle",
+  "animation": "animation.universal_emotes.laid_back_shuffle",
+  "name": "Laid Back Shuffle",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

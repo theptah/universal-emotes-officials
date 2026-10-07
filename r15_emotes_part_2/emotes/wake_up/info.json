@@ -1,0 +1,8 @@
+{
+  "id": "wake_up",
+  "animation": "animation.universal_emotes.wake_up",
+  "name": "Wake Up",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

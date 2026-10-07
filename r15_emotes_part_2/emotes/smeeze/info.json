@@ -1,0 +1,8 @@
+{
+  "id": "smeeze",
+  "animation": "animation.universal_emotes.smeeze",
+  "name": "Smeeze",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

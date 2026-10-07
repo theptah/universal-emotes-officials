@@ -1,0 +1,8 @@
+{
+  "id": "bobbin",
+  "animation": "animation.universal_emotes.bobbin",
+  "name": "Bobbin'",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

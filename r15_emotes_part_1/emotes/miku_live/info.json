@@ -1,0 +1,8 @@
+{
+  "id": "miku_live",
+  "animation": "animation.universal_emotes.miku_live",
+  "name": "Miku Live",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "rare"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "deep_end",
+  "animation": "animation.universal_emotes.deep_end",
+  "name": "Deep End",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "jar_of_dirt",
+  "animation": "animation.universal_emotes.jar_of_dirt",
+  "name": "Jar Of Dirt",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

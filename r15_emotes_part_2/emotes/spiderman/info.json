@@ -1,0 +1,8 @@
+{
+  "id": "spiderman",
+  "animation": "animation.universal_emotes.spiderman",
+  "name": "Spiderman",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "legendary"
+}

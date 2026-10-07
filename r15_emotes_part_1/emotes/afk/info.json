@@ -1,0 +1,8 @@
+{
+  "id": "afk",
+  "animation": "animation.universal_emotes.afk",
+  "name": "Afk",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "complementary"
+}

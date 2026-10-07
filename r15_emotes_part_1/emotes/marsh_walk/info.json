@@ -1,0 +1,8 @@
+{
+  "id": "marsh_walk",
+  "animation": "animation.universal_emotes.marsh_walk",
+  "name": "Marsh Walk",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

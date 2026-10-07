@@ -1,0 +1,8 @@
+{
+  "id": "starlit",
+  "animation": "animation.universal_emotes.starlit",
+  "name": "Starlit",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "rare"
+}

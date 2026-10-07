@@ -1,0 +1,8 @@
+{
+  "id": "build_up",
+  "animation": "animation.universal_emotes.build_up",
+  "name": "Build Up",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "rare"
+}

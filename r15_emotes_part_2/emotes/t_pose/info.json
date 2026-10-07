@@ -1,0 +1,8 @@
+{
+  "id": "t_pose",
+  "animation": "animation.universal_emotes.t_pose",
+  "name": "T-pose",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

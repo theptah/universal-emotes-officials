@@ -1,0 +1,8 @@
+{
+  "id": "no_tears",
+  "animation": "animation.universal_emotes.no_tears",
+  "name": "No Tears",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "scenario",
+  "animation": "animation.universal_emotes.scenario",
+  "name": "Scenario",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

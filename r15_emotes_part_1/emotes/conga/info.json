@@ -1,0 +1,8 @@
+{
+  "id": "conga",
+  "animation": "animation.universal_emotes.conga",
+  "name": "Conga",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

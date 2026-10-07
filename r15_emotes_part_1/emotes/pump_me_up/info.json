@@ -1,0 +1,8 @@
+{
+  "id": "pump_me_up",
+  "animation": "animation.universal_emotes.pump_me_up",
+  "name": "Pump Me Up",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "rare"
+}

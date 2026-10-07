@@ -1,0 +1,8 @@
+{
+  "id": "sad_trombone",
+  "animation": "animation.universal_emotes.sad_trombone",
+  "name": "Sad Trombone",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "rare"
+}

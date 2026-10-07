@@ -1,0 +1,8 @@
+{
+  "id": "feelin_royal",
+  "animation": "animation.universal_emotes.feelin_royal",
+  "name": "Feelin' Royal",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

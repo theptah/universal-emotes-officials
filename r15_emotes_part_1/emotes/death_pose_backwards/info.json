@@ -1,0 +1,8 @@
+{
+  "id": "death_pose_backwards",
+  "animation": "animation.universal_emotes.death_pose_backwards",
+  "name": "Death Pose (Backwards)",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "rare"
+}

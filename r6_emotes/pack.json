@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "min_mod_version": "1.0.0",
+  "bundle": {
+    "namespace": "universal_emotes",
+    "id": "official_r6_pack",
+    "title": "Universal Emotes Official R6 Pack",
+    "author": "ptah",
+    "version": "1.0.0",
+    "description": "",
+    "rig_type": "r6"
+  }
+}

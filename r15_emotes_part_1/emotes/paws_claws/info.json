@@ -1,0 +1,8 @@
+{
+  "id": "paws_claws",
+  "animation": "animation.universal_emotes.paws_claws",
+  "name": "Paws & Claws",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

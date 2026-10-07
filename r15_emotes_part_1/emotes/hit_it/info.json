@@ -1,0 +1,8 @@
+{
+  "id": "hit_it",
+  "animation": "animation.universal_emotes.hit_it",
+  "name": "Hit It",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

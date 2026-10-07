@@ -1,0 +1,8 @@
+{
+  "id": "feelin_jaunty",
+  "animation": "animation.universal_emotes.feelin_jaunty",
+  "name": "Feelin' Jaunty",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

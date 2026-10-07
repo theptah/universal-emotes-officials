@@ -1,0 +1,8 @@
+{
+  "id": "say_so",
+  "animation": "animation.universal_emotes.say_so",
+  "name": "Say So",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

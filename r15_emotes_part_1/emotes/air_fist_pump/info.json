@@ -1,0 +1,8 @@
+{
+  "id": "air_fist_pump",
+  "animation": "animation.universal_emotes.air_fist_pump",
+  "name": "Air Fist Pump",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

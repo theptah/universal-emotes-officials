@@ -1,0 +1,8 @@
+{
+  "id": "jiggle_jiggle",
+  "animation": "animation.universal_emotes.jiggle_jiggle",
+  "name": "Jiggle Jiggle",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "rare"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "smitten",
+  "animation": "animation.universal_emotes.smitten",
+  "name": "Smitten",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "rare"
+}

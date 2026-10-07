@@ -1,0 +1,8 @@
+{
+  "id": "slide_stride",
+  "animation": "animation.universal_emotes.slide_stride",
+  "name": "Slide Stride",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

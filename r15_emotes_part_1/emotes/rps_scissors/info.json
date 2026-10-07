@@ -1,0 +1,8 @@
+{
+  "id": "rps_scissors",
+  "animation": "animation.universal_emotes.rps_scissors",
+  "name": "Rps (Scissors)",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "complementary"
+}

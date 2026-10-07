@@ -1,0 +1,8 @@
+{
+  "id": "t_rex",
+  "animation": "animation.universal_emotes.t_rex",
+  "name": "T-rex",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

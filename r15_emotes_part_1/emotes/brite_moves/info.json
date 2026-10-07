@@ -1,0 +1,8 @@
+{
+  "id": "brite_moves",
+  "animation": "animation.universal_emotes.brite_moves",
+  "name": "Brite Moves",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

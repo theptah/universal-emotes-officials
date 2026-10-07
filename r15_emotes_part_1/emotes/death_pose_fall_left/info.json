@@ -1,0 +1,8 @@
+{
+  "id": "death_pose_fall_left",
+  "animation": "animation.universal_emotes.death_pose_fall_left",
+  "name": "Death Pose (Fall Left)",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "rare"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "where_is_matt",
+  "animation": "animation.universal_emotes.where_is_matt",
+  "name": "Where Is Matt",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

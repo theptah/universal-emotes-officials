@@ -1,0 +1,8 @@
+{
+  "id": "perfect_score",
+  "animation": "animation.universal_emotes.perfect_score",
+  "name": "Perfect Score",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "rare"
+}

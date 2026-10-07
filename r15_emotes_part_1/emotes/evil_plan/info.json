@@ -1,0 +1,8 @@
+{
+  "id": "evil_plan",
+  "animation": "animation.universal_emotes.evil_plan",
+  "name": "Evil Plan",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

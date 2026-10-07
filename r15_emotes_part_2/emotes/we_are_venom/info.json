@@ -1,0 +1,8 @@
+{
+  "id": "we_are_venom",
+  "animation": "animation.universal_emotes.we_are_venom",
+  "name": "We Are Venom",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "infectious",
+  "animation": "animation.universal_emotes.infectious",
+  "name": "Infectious",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "rare"
+}

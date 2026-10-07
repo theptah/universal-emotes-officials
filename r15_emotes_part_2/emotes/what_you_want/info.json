@@ -1,0 +1,8 @@
+{
+  "id": "what_you_want",
+  "animation": "animation.universal_emotes.what_you_want",
+  "name": "What You Want",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

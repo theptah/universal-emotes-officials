@@ -1,0 +1,8 @@
+{
+  "id": "the_quick_style",
+  "animation": "animation.universal_emotes.the_quick_style",
+  "name": "The Quick Style",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

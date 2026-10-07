@@ -1,0 +1,8 @@
+{
+  "id": "onda_onda",
+  "animation": "animation.universal_emotes.onda_onda",
+  "name": "Onda Onda",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

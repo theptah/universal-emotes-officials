@@ -1,0 +1,8 @@
+{
+  "id": "go_with_the_flow",
+  "animation": "animation.universal_emotes.go_with_the_flow",
+  "name": "Go With The Flow",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

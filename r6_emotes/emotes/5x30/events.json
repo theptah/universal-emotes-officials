@@ -1,0 +1,16 @@
+{
+  "events": [
+    {
+      "time": 0,
+      "type": "play_music",
+      "asset_id": "universal_emotes:ela_vira_mortal_slowed",
+      "volume": 1
+    },
+    {
+      "time": 0,
+      "type": "set_skin",
+      "model": "wide",
+      "asset_id": "universal_emotes:gas_masked_man"
+    }
+  ]
+}

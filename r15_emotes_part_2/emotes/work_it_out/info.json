@@ -1,0 +1,8 @@
+{
+  "id": "work_it_out",
+  "animation": "animation.universal_emotes.work_it_out",
+  "name": "Work It Out",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

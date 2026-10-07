@@ -1,0 +1,8 @@
+{
+  "id": "groove_destroyer",
+  "animation": "animation.universal_emotes.groove_destroyer",
+  "name": "Groove Destroyer",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "rare"
+}

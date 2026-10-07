@@ -1,0 +1,8 @@
+{
+  "id": "rushin_around",
+  "animation": "animation.universal_emotes.rushin_around",
+  "name": "Rushin' Around",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

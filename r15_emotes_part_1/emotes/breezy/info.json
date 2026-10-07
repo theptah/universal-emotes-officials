@@ -1,0 +1,8 @@
+{
+  "id": "breezy",
+  "animation": "animation.universal_emotes.breezy",
+  "name": "Breezy",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

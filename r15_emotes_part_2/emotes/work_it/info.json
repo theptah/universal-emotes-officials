@@ -1,0 +1,8 @@
+{
+  "id": "work_it",
+  "animation": "animation.universal_emotes.work_it",
+  "name": "Work It",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

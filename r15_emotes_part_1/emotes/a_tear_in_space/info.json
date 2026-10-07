@@ -1,0 +1,8 @@
+{
+  "id": "a_tear_in_space",
+  "animation": "animation.universal_emotes.a_tear_in_space",
+  "name": "A Tear In Space",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

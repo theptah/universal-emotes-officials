@@ -1,0 +1,8 @@
+{
+  "id": "dancin_domino",
+  "animation": "animation.universal_emotes.dancin_domino",
+  "name": "Dancin' Domino",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

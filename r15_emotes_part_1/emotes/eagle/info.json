@@ -1,0 +1,8 @@
+{
+  "id": "eagle",
+  "animation": "animation.universal_emotes.eagle",
+  "name": "Eagle",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

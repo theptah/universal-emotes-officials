@@ -1,0 +1,8 @@
+{
+  "id": "potted_groot",
+  "animation": "animation.universal_emotes.potted_groot",
+  "name": "Potted Groot",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "mashed_potato",
+  "animation": "animation.universal_emotes.mashed_potato",
+  "name": "Mashed Potato",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

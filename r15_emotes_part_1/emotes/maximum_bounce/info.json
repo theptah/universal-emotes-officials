@@ -1,0 +1,8 @@
+{
+  "id": "maximum_bounce",
+  "animation": "animation.universal_emotes.maximum_bounce",
+  "name": "Maximum Bounce",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

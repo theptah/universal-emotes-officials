@@ -1,0 +1,8 @@
+{
+  "id": "social_climber",
+  "animation": "animation.universal_emotes.social_climber",
+  "name": "Social Climber",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "old_school",
+  "animation": "animation.universal_emotes.old_school",
+  "name": "Old School",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

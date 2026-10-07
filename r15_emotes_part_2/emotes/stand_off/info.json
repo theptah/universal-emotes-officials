@@ -1,0 +1,8 @@
+{
+  "id": "stand_off",
+  "animation": "animation.universal_emotes.stand_off",
+  "name": "Stand Off",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

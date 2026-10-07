@@ -1,0 +1,8 @@
+{
+  "id": "infinite_dab_loop",
+  "animation": "animation.universal_emotes.infinite_dab_loop",
+  "name": "Infinite Dab Loop",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "looking_good",
+  "animation": "animation.universal_emotes.looking_good",
+  "name": "Looking Good",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

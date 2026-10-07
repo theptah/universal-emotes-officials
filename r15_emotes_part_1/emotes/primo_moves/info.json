@@ -1,0 +1,8 @@
+{
+  "id": "primo_moves",
+  "animation": "animation.universal_emotes.primo_moves",
+  "name": "Primo Moves",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

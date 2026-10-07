@@ -1,0 +1,8 @@
+{
+  "id": "rootin_tootin",
+  "animation": "animation.universal_emotes.rootin_tootin",
+  "name": "Rootin' Tootin'",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

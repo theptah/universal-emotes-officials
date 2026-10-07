@@ -1,0 +1,8 @@
+{
+  "id": "blow_kiss",
+  "animation": "animation.universal_emotes.blow_kiss",
+  "name": "Blow Kiss",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "complementary"
+}

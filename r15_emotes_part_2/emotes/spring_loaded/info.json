@@ -1,0 +1,8 @@
+{
+  "id": "spring_loaded",
+  "animation": "animation.universal_emotes.spring_loaded",
+  "name": "Spring-loaded",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

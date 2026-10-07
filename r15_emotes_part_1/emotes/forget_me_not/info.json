@@ -1,0 +1,8 @@
+{
+  "id": "forget_me_not",
+  "animation": "animation.universal_emotes.forget_me_not",
+  "name": "Forget Me Not",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "rare"
+}

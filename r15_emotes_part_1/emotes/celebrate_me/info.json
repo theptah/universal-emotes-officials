@@ -1,0 +1,8 @@
+{
+  "id": "celebrate_me",
+  "animation": "animation.universal_emotes.celebrate_me",
+  "name": "Celebrate Me",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

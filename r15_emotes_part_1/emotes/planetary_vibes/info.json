@@ -1,0 +1,8 @@
+{
+  "id": "planetary_vibes",
+  "animation": "animation.universal_emotes.planetary_vibes",
+  "name": "Planetary Vibes",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "legendary"
+}

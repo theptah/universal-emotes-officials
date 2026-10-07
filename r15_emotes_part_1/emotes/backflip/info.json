@@ -1,0 +1,8 @@
+{
+  "id": "backflip",
+  "animation": "animation.universal_emotes.backflip",
+  "name": "Backflip",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

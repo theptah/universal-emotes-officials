@@ -1,0 +1,8 @@
+{
+  "id": "rain_check",
+  "animation": "animation.universal_emotes.rain_check",
+  "name": "Rain Check",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

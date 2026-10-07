@@ -1,0 +1,8 @@
+{
+  "id": "yay",
+  "animation": "animation.universal_emotes.yay",
+  "name": "Yay!",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

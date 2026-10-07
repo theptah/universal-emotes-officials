@@ -1,0 +1,8 @@
+{
+  "id": "caramell_dansen",
+  "animation": "animation.universal_emotes.caramell_dansen",
+  "name": "Caramell Dansen",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "rare"
+}

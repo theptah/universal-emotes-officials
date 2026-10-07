@@ -1,0 +1,8 @@
+{
+  "id": "jump_around",
+  "animation": "animation.universal_emotes.jump_around",
+  "name": "Jump Around",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

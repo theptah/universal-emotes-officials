@@ -1,0 +1,8 @@
+{
+  "id": "do_the_split",
+  "animation": "animation.universal_emotes.do_the_split",
+  "name": "Do The 'split",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

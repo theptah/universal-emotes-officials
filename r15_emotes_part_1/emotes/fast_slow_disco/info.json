@@ -1,0 +1,8 @@
+{
+  "id": "fast_slow_disco",
+  "animation": "animation.universal_emotes.fast_slow_disco",
+  "name": "Fast Slow Disco",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "symbol_of_peace_pose",
+  "animation": "animation.universal_emotes.symbol_of_peace_pose",
+  "name": "Symbol Of Peace Pose",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

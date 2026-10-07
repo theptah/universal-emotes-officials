@@ -1,0 +1,8 @@
+{
+  "id": "no_cure",
+  "animation": "animation.universal_emotes.no_cure",
+  "name": "No Cure",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

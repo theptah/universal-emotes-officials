@@ -1,0 +1,8 @@
+{
+  "id": "fandangle",
+  "animation": "animation.universal_emotes.fandangle",
+  "name": "Fandangle",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "calm_down",
+  "animation": "animation.universal_emotes.calm_down",
+  "name": "Calm Down",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "complementary"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "snake_summoner",
+  "animation": "animation.universal_emotes.snake_summoner",
+  "name": "Snake Summoner",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "legendary"
+}

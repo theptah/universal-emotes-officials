@@ -1,0 +1,8 @@
+{
+  "id": "loser_dance",
+  "animation": "animation.universal_emotes.loser_dance",
+  "name": "Loser Dance",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

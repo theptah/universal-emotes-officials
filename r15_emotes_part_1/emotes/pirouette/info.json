@@ -1,0 +1,8 @@
+{
+  "id": "pirouette",
+  "animation": "animation.universal_emotes.pirouette",
+  "name": "Pirouette",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

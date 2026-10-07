@@ -1,0 +1,8 @@
+{
+  "id": "the_pollo_dance",
+  "animation": "animation.universal_emotes.the_pollo_dance",
+  "name": "The Pollo Dance",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

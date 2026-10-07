@@ -1,0 +1,8 @@
+{
+  "id": "stuck",
+  "animation": "animation.universal_emotes.stuck",
+  "name": "Stuck",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

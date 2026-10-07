@@ -1,0 +1,8 @@
+{
+  "id": "emote_loop",
+  "animation": "animation.universal_emotes.emote_loop",
+  "name": "Emote Loop",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

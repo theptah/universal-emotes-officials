@@ -1,0 +1,8 @@
+{
+  "id": "socks",
+  "animation": "animation.universal_emotes.socks",
+  "name": "Socks",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

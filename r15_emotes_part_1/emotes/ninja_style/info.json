@@ -1,0 +1,8 @@
+{
+  "id": "ninja_style",
+  "animation": "animation.universal_emotes.ninja_style",
+  "name": "Ninja Style",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

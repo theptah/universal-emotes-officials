@@ -1,0 +1,8 @@
+{
+  "id": "hello_friend",
+  "animation": "animation.universal_emotes.hello_friend",
+  "name": "Hello Friend",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "complementary"
+}

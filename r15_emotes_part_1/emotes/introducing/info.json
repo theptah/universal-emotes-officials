@@ -1,0 +1,8 @@
+{
+  "id": "introducing",
+  "animation": "animation.universal_emotes.introducing",
+  "name": "Introducing",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

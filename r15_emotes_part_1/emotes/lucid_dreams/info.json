@@ -1,0 +1,8 @@
+{
+  "id": "lucid_dreams",
+  "animation": "animation.universal_emotes.lucid_dreams",
+  "name": "Lucid Dreams",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

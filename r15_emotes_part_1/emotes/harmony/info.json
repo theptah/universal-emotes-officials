@@ -1,0 +1,8 @@
+{
+  "id": "harmony",
+  "animation": "animation.universal_emotes.harmony",
+  "name": "Harmony",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

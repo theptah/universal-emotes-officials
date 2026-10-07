@@ -1,0 +1,8 @@
+{
+  "id": "entranced",
+  "animation": "animation.universal_emotes.entranced",
+  "name": "Entranced",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

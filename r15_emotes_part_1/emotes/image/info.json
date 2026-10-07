@@ -1,0 +1,8 @@
+{
+  "id": "image",
+  "animation": "animation.universal_emotes.image",
+  "name": "Image",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

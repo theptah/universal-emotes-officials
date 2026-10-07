@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "min_mod_version": "1.0.0",
+  "bundle": {
+    "namespace": "universal_emotes",
+	"id": "official_r15_emotes",
+	"title": "Universal Emotes Official R15 Pack",
+    "author": "ptah",
+    "version": "1.0.0",
+    "description": "",
+    "rig_type": "r15",
+    "collection": {
+      "order": 1,
+      "total": 2
+    }
+  }
+}

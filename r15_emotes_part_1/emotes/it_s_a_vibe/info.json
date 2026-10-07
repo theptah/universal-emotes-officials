@@ -1,0 +1,8 @@
+{
+  "id": "it_s_a_vibe",
+  "animation": "animation.universal_emotes.it_s_a_vibe",
+  "name": "It's A Vibe",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

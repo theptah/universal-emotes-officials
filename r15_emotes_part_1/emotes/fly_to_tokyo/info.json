@@ -1,0 +1,8 @@
+{
+  "id": "fly_to_tokyo",
+  "animation": "animation.universal_emotes.fly_to_tokyo",
+  "name": "Fly To Tokyo",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}

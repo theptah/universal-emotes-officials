@@ -1,0 +1,8 @@
+{
+  "id": "showstopper",
+  "animation": "animation.universal_emotes.showstopper",
+  "name": "Showstopper",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "rare"
+}

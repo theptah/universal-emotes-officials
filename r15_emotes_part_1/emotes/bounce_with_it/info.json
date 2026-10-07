@@ -1,0 +1,8 @@
+{
+  "id": "bounce_with_it",
+  "animation": "animation.universal_emotes.bounce_with_it",
+  "name": "Bounce With It",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "rare"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "bad_guy",
+  "animation": "animation.universal_emotes.bad_guy",
+  "name": "Bad Guy",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "rare"
+}

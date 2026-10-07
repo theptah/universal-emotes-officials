@@ -1,0 +1,8 @@
+{
+  "id": "hooray",
+  "animation": "animation.universal_emotes.hooray",
+  "name": "Hooray",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "complementary"
+}

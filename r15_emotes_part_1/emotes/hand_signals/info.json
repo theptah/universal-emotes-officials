@@ -1,0 +1,8 @@
+{
+  "id": "hand_signals",
+  "animation": "animation.universal_emotes.hand_signals",
+  "name": "Hand Signals",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

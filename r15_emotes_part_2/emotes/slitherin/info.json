@@ -1,0 +1,8 @@
+{
+  "id": "slitherin",
+  "animation": "animation.universal_emotes.slitherin",
+  "name": "Slitherin'",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "common"
+}

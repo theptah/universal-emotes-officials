@@ -1,0 +1,8 @@
+{
+  "id": "jubi_slide",
+  "animation": "animation.universal_emotes.jubi_slide",
+  "name": "Jubi Slide",
+  "description": "Ported with love from TooManyEmotes by FlipMods.",
+  "op": 0,
+  "rarity": "uncommon"
+}
